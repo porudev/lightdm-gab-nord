@@ -19,7 +19,7 @@ Nord theme: [Nord](https://github.com/arcticicestudio/nord)
 ## Dependencies
 * [LightDM](https://www.archlinux.org/packages/extra/x86_64/lightdm/)
 * [WebKit2 Greeter](https://www.archlinux.org/packages/community/x86_64/lightdm-webkit2-greeter/)
-* [Source Code Pro](https://archlinux.org/packages/extra/any/adobe-source-code-pro-fonts/)
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 ## Screenshots
 ![Screenshot](https://i.imgur.com/2qhsdTs.png "Demo screenshot")
 ***
