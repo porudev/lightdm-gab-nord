@@ -65,7 +65,7 @@ body
 #time-label
 {
 	font-size:16px;
-	font-family:"Fira Sans";
+	font-family:"Source Code Pro Semibold";
 	color: #ECEFF4;
 }
 
@@ -99,7 +99,7 @@ body
 {
 	width:100%;
 	margin-top:20px;
-	font-family:"Fira Sans";
+	font-family:"Source Code Pro Semibold";
 	font-size: 16px;
 	color:#BF616A;
 	/*
@@ -126,7 +126,7 @@ body
 	border-radius:2px;
 	padding:5px 5px 10px 10px;
 	font-size:16px;
-	font-family:"Fira Sans";
+	font-family:"Source Code Pro Semibold";
 	color: #ECEFF4;
 	display:none;
 }
@@ -169,7 +169,7 @@ body
     margin-left: -31px;
     text-align: left;
     width: 200%;
-    font-family: "Fira Sans";
+    font-family: "Source Code Pro Semibold";
     font-size: 16px;
     color: #ECEFF4;
     /*margin-bottom: 13px;*/
@@ -225,19 +225,19 @@ body
 }
 
 #login-password::-webkit-input-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'Source Code Pro Semibold';
 }
 
 #login-password:-ms-input-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'Source Code Pro Semibold';
 }
 
 #login-password:-moz-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'Source Code Pro Semibold';
 }
 
 #login-password::-moz-placeholder {
-    font-family: 'D2Coding';
+    font-family: 'Source Code Pro Semibold';
 }
 
 #login-name:hover,
@@ -262,7 +262,7 @@ body
 	position:relative;
 	top:-15px;
 	outline:0;
-	font-family: 'D2Coding';
+	font-family: 'Source Code Pro Semibold';
 	font-size:15px;
 	margin-top:10px;
 	/*background-color:#ffa1a1; */
